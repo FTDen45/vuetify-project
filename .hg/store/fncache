@@ -1,0 +1,16 @@
+data/src/components/Ads/Ad.vue.i
+data/package.json.i
+data/src/App.vue.i
+data/vue.config.js.i
+data/src/router/index.js.i
+data/src/components/Ads/AdList.vue.i
+data/src/components/Auth/Registration.vue.i
+data/src/components/User/Orders.vue.i
+data/src/components/Home.vue.i
+data/src/components/Auth/Login.vue.i
+data/src/main.js.i
+data/babel.config.js.i
+data/src/components/Ads/NewAd.vue.i
+data/src/plugins/vuetify.js.i
+data/src/store/ads.js.i
+data/src/store/index.js.i
